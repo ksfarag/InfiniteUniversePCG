@@ -1,7 +1,7 @@
 # Infinite Universe PCG
 Infinite star systems created by Procedural Generation. 
 
-Each Star system has plants, each plant has some moons!
+Each Star system has planets, each planet has some moons!
 
 Use right mouse to navigate between star systems, and use A, D and SPACE to navigate within a star system
 
